@@ -1,4 +1,4 @@
-# 🎣 Phishing Email Awareness Simulator
+#  Phishing Email Awareness Simulator
 
 A Python-based cybersecurity training application that helps users identify phishing emails through interactive scenarios. The simulator presents email examples, allows users to classify them as phishing or legitimate, and provides feedback to improve cybersecurity awareness and phishing detection skills.
 
