@@ -1,18 +1,16 @@
-#  Phishing Email Awareness Simulator
+Phishing Email Awareness Simulator
 
 A Python-based cybersecurity training application that helps users identify phishing emails through interactive scenarios. The simulator presents email examples, allows users to classify them as phishing or legitimate, and provides feedback to improve cybersecurity awareness and phishing detection skills.
 
----
 
-## 📖 Overview
+Overview
 
 Phishing attacks are among the most common cyber threats, often targeting individuals through deceptive emails that attempt to steal sensitive information such as passwords, banking details, and personal data.
 
 This project provides a simple and interactive way to learn how to recognize phishing emails by analyzing realistic email scenarios and testing user awareness.
 
----
 
-## ✨ Features
+ Features
 
 * Interactive phishing awareness training
 * Realistic email scenarios
@@ -24,36 +22,13 @@ This project provides a simple and interactive way to learn how to recognize phi
 
 ---
 
-## 🛠 Technologies Used
+#Technologies Used
 
 * Python 3.x
 * Lists and Dictionaries
 * Conditional Statements
 * Loops and User Input Handling
 
----
-
-## 📂 Project Structure
-
-```text
-Phishing-Email-Awareness-Simulator/
-│
-├── phishing.py
-├── README.md
-│
-└── requirements.txt (optional)
-```
-
----
-
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/phishing-email-awareness-simulator.git
-cd phishing-email-awareness-simulator
-```
 
 ### Requirements
 
@@ -84,9 +59,8 @@ Is this 'phishing' or 'legitimate'?
 
 At the end of the simulation, your awareness score will be displayed.
 
----
 
-## 🔍 How It Works
+How It Works
 
 1. The simulator displays an email message.
 2. The user classifies the email as phishing or legitimate.
@@ -98,7 +72,7 @@ At the end of the simulation, your awareness score will be displayed.
 
 ---
 
-## 🚨 Common Phishing Indicators
+Common Phishing Indicators
 
 The simulator teaches users to recognize common phishing warning signs, including:
 
@@ -112,7 +86,7 @@ The simulator teaches users to recognize common phishing warning signs, includin
 
 ---
 
-## 📊 Example Session
+Example Session
 
 ### Email Example
 
@@ -135,7 +109,7 @@ Correct!
 
 ---
 
-## 🎯 Learning Outcomes
+ Learning Outcomes
 
 * Understanding phishing attack techniques
 * Identifying suspicious email characteristics
@@ -146,7 +120,7 @@ Correct!
 
 ---
 
-## 🔐 Cybersecurity Concepts Covered
+Cybersecurity Concepts Covered
 
 * Phishing Attacks
 * Social Engineering
@@ -157,7 +131,7 @@ Correct!
 
 ---
 
-## 🚀 Future Improvements
+ Future Improvements
 
 * Larger phishing email dataset
 * Multiple difficulty levels
@@ -171,6 +145,6 @@ Correct!
 
 ---
 
-## 📜 License
+ License
 
 This project is intended for educational and learning purposes.
